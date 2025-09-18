@@ -1,0 +1,30 @@
+
+body{
+    background-color: rgb(245, 124, 184);
+    
+    margin: 0%;
+   
+  
+    
+}
+
+ HU{
+
+    width: 100px;
+    height: 100px;
+    
+ }
+ .card{
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    margin: 2px;
+    border: 30px ;
+    background-color: aqua;
+    text-align: center;
+    
+    border-radius:10%;
+    
+
+ }
+
